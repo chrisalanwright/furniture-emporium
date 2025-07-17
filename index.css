@@ -1,0 +1,56 @@
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+s {
+  color: red;
+}
+
+.title {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.title {
+  width: 152px;
+  margin-left: 20px;
+}
+
+body {
+  background-color: rgb(84, 133, 165);
+}
+
+p {
+  margin: 20px;
+  font-size: large;
+  font-family: sans-serif;
+  width: 450px;
+}
+
+h2 {
+  padding: 15px;
+  margin-left: 5px;
+}
+
+button {
+  margin-left: 110px;
+  background-color: rgb(16, 192, 10);
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.price {
+  margin-left: 120px;
+  width: 60px;
+}
+
+.under-title {
+  background-color: transparent;
+}
+
+article {
+  background-color: khaki;
+  margin: 20px;
+  padding-bottom: 20px;
+  width: 480px;
+  border: solid;
+}
