@@ -5,7 +5,7 @@ h2 {
 }
 
 s {
-  color: red;
+  color: rgb(129, 1, 1);
 }
 
 .title {
@@ -47,7 +47,7 @@ button:hover {
   margin-left: 215px;
   width: 60px;
   font-size: larger;
-  color: rgb(10, 104, 10);
+  color: rgb(7, 80, 7);
 }
 
 .under-title {
